@@ -43,6 +43,7 @@ a<-d300$norma
 b<-d300$geo
 c<-d300$flot
 
+
 bartlett.test(list(a,b,c))
 
 #ANOVA
