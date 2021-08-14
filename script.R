@@ -55,6 +55,3 @@ summary(anova)
 #Tukey
 
 TukeyHSD(anova)
-
-
-hola
